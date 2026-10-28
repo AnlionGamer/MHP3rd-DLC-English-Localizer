@@ -1,0 +1,11 @@
+# Windows x64 / CPython 3.15.2 release build; all versions frozen.
+cryptography==50.0.2
+pyinstaller==6.22.3
+cffi==2.1.1
+pycparser==3.12
+altgraph==0.17.5
+packaging==26.3
+pefile==2024.8.26
+pyinstaller-hooks-contrib==2026.9
+pywin32-ctypes==0.2.3
+setuptools==84.2.1

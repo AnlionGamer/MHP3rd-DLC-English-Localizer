@@ -1,0 +1,2203 @@
+{
+  "schema_version": 1,
+  "game_id": "ULJM05800",
+  "reference_release": "TMO 6.3.0 + 1 draft quest",
+  "record_fields": [
+    "title",
+    "objective",
+    "failure_conditions",
+    "request_description",
+    "monster_summary",
+    "requester"
+  ],
+  "quests": {
+    "m60050.mib": {
+      "fields": {
+        "title": {
+          "ja": "最強への挑戦",
+          "en": "Challenge of the Strongest"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt all large monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward falls to zero\nTime expires"
+        },
+        "request_description": {
+          "ja": "もはやなにも言うことはない。\n最強の称号を手に入れるには、\nこの闘技場から無事に生還\nすればいいのだ。ハンター\n諸君。さあ、挑戦するがよい。\nそして乗り越えてみせよ！",
+          "en": "Nothing more needs to be said.\nTo earn the title of strongest,\nyou need only return alive from\nthis arena. Hunters, face the\nchallenge and overcome it!"
+        },
+        "monster_summary": {
+          "ja": "ナルガクルガ亜種\nティガレックス亜種など",
+          "en": "Green Nargacuga\nBlack Tigrex, etc."
+        },
+        "requester": {
+          "ja": "謎の赤衣の男",
+          "en": "Mysterious Man in Red"
+        }
+      },
+      "provenance": "independent draft",
+      "jp_pointer_offset": 676,
+      "en_pointer_offset": 676
+    },
+    "m60048.mib": {
+      "fields": {
+        "title": {
+          "ja": "未曾有の脅威",
+          "en": "Unprecedented Threat"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt the Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "数々の危機を乗り越え、火の山と\n共に歩んできた我ら火の民にも\n覚悟の時が来た。だが、どんな\n苦難が訪れようとも我々は運命に\nなど屈しない！　明日を切り開く\nため、お主の力を貸して欲しい。",
+          "en": "We, the Fire People, have\nlived with the Volcano.\nNow we face a trial.\nBut we won't give in!\nHelp us forge a new future.\nLend us your arm!"
+        },
+        "monster_summary": {
+          "ja": "リオレウス、ウラガンキン、\nティガレックス亜種など",
+          "en": "Rathalos, Uragaan, B.Tigrex\nAgnaktor, S.Uragaan"
+        },
+        "requester": {
+          "ja": "火の国の姫",
+          "en": "Fire Country Princess"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 720,
+      "en_pointer_offset": 720
+    },
+    "m60047.mib": {
+      "fields": {
+        "title": {
+          "ja": "凍土が震える刻",
+          "en": "Frozen Moments"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt all Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "幾度となく凍土に足を踏み入れた\n我々調査隊だが、これほど強力な\nモンスターが集結したさまは、\nかつて見た事がない…！\nこのままでは凍土の環境自体にも\n悪影響が懸念される。頼むぞ！",
+          "en": "Our team has seen the Tundra\nmany times, but never\nmonsters this strong!\nThe environment is at risk.\nWe're counting on you!\nGood luck!"
+        },
+        "monster_summary": {
+          "ja": "ギギネブラ、ボルボロス亜種\nギギネブラ亜種など",
+          "en": "Gigginox, Jade Barroth\nB.Gigginox, Barioth, G.Agnaktor"
+        },
+        "requester": {
+          "ja": "凍土調査隊の隊長",
+          "en": "Tundra Survey Leader"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 716,
+      "en_pointer_offset": 716
+    },
+    "m60049.mib": {
+      "fields": {
+        "title": {
+          "ja": "亜種達の楽園",
+          "en": "Subspecies Paradise"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt All Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "困った事に、闘技場が亜種達の\n楽園と化してしまった！\n普段は共存しないヤツらなのに、\n闘技場の住み心地が良いようだ。\nさあ、ハンターよ、\n我らが闘技場を取り戻してくれ！",
+          "en": "This is bad! The Arena has\nbecome a Subspecies heaven!\nThey don't usually mingle,\nbut they love it there.\nTake back our Arena!\nGo now!"
+        },
+        "monster_summary": {
+          "ja": "ナルガクルガ亜種、ウラガンキン\n亜種、ベリオロス亜種など",
+          "en": "G.Nargacuga, S.Uragaan, S.Barioth\nG.Agnaktor, B.Diablos"
+        },
+        "requester": {
+          "ja": "闘技場の主",
+          "en": "Arena Manager"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 700,
+      "en_pointer_offset": 700
+    },
+    "m60031.mib": {
+      "fields": {
+        "title": {
+          "ja": "神への挑戦",
+          "en": "Challenging a God"
+        },
+        "objective": {
+          "ja": "アルバトリオンの討伐",
+          "en": "Slay Alatreon"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "ハンター諸君、究極の試練の時間\nだ。諸君らの相手となるのは、黒\nき太陽、煌黒龍アルバトリオン。\n神をも恐れさせる最強の古龍か、\nそれとも人類の英知か。\nさあ、たっぷり楽しませてくれ！",
+          "en": "Hunters, the ultimate test.\nYour foe: the Black Sun,\nAlatreon.\nIs it an Elder Dragon or\nhuman wit that wins?\nEnjoy the show!"
+        },
+        "monster_summary": {
+          "ja": "アルバトリオン",
+          "en": "Alatreon"
+        },
+        "requester": {
+          "ja": "謎の赤衣の男",
+          "en": "Man in Red Clothing"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 652,
+      "en_pointer_offset": 652
+    },
+    "m60046.mib": {
+      "fields": {
+        "title": {
+          "ja": "猛竜繚乱",
+          "en": "Profusion of Fierce Wyverns"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt all Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "村近くの森に凶悪なモンスター\n達が生息してしまい、資源が\n採れず、困っておるのだ。\n村のハンターも所用で街に\n出かけておってのう…お前さん\nだけが頼りだ。頼んだぞ。",
+          "en": "Monsters moved into the\nforest near the village.\nWe can't get resources!\nOur hunters are away.\nYou're our only hope!\nPlease help!"
+        },
+        "monster_summary": {
+          "ja": "リオレイア、ロアルドロス亜種\nナルガクルガ亜種など",
+          "en": "Rathian, P.Ludroth, G.Nargacuga\nZinogre, Rathalos"
+        },
+        "requester": {
+          "ja": "孤島の村の長",
+          "en": "Deserted Island Chief"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 684,
+      "en_pointer_offset": 684
+    },
+    "m60039.mib": {
+      "fields": {
+        "title": {
+          "ja": "カウンターバランス",
+          "en": "Antipodes"
+        },
+        "objective": {
+          "ja": "アグナコトル１頭と\nアグナコトル亜種１頭の狩猟",
+          "en": "Hunt the Agnaktor\nand Glacial Agnaktor"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "謎や。ミステリーや。\n炎と水、相容れぬ存在が闘技場に\n巣くうておるみたいや。\n相殺せず、共存するなんて…。\n一体全体何が？　ハンターさん、\nこの謎を解いてくれやー！",
+          "en": "It's a mystery! Fire and\nWater are living together\nin the Arena.\nHow can they coexist like\nthat? Hunter, solve this\npuzzle! Show me how!"
+        },
+        "monster_summary": {
+          "ja": "アグナコトル\nアグナコトル亜種",
+          "en": "Agnaktor\nGlacial Agnaktor"
+        },
+        "requester": {
+          "ja": "謎を追い求める少女",
+          "en": "Mystery-Seeking Girl"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 712,
+      "en_pointer_offset": 712
+    },
+    "m60051.mib": {
+      "fields": {
+        "title": {
+          "ja": "狩人の矜持",
+          "en": "Hunter's Pride"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt all Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "この地方にとびきり優秀な\nハンターがいるって聞いたけど\nあなたのことね？　その実力を\n見込んで、前人未踏のクエストを\n紹介してあげる。狩人たる誇り、\n歴史に刻んでごらんなさい。",
+          "en": "I heard this land has an\nexcellent hunter. Is it you?\nI have an uncharted quest\njust for you.\nGo carve your name\ninto history!"
+        },
+        "monster_summary": {
+          "ja": "リオレウス、ティガレックス\nナルガクルガ、ジンオウガ",
+          "en": "Rathalos, Tigrex\nNargacuga, Zinogre"
+        },
+        "requester": {
+          "ja": "騎士を従えた少女",
+          "en": "Girl with Knights"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 716,
+      "en_pointer_offset": 716
+    },
+    "m60040.mib": {
+      "fields": {
+        "title": {
+          "ja": "氷泥武闘曲",
+          "en": "Mudded Ice Melody"
+        },
+        "objective": {
+          "ja": "ボルボロス１頭と\nボルボロス亜種１頭の狩猟",
+          "en": "Hunt the Barroth\nand Jade Barroth"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "通常種と亜種が互いの誇りを\nかけて頭部を打ち付けあう際の\n鳴動。氷と泥が激しく舞い踊り、\n生命の音色を奏でる…そこに君の\n熱きビートを重ね、私の楽曲に\n最後の音を添えてくれたまえ！",
+          "en": "The sound of subspecies\nclashing for pride.\nIce and mud dancing to the\nrhythm of life...\nAdd your beat to my final\nmasterpiece!"
+        },
+        "monster_summary": {
+          "ja": "ボルボロス\nボルボロス亜種",
+          "en": "Barroth\nJade Barroth"
+        },
+        "requester": {
+          "ja": "孤高の作曲家",
+          "en": "Solitary Composer"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 696,
+      "en_pointer_offset": 696
+    },
+    "m60033.mib": {
+      "fields": {
+        "title": {
+          "ja": "崩竜激震",
+          "en": "Severe Ukanlos Earthquake"
+        },
+        "objective": {
+          "ja": "ウカムルバスの討伐",
+          "en": "Slay Ukanlos"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "ここ最近、極圏の最深部で地響き\nが収まる日がなくて助けて\n欲しいと陳情がありました。\n村人達は白き神がこの世を崩しに\n来たのだと怯えています。どうか\n彼らを助けてあげてください。",
+          "en": "Lately, the Polar Sea floor\nwon't stop shaking.\nVillagers fear a White God\nhas come to end the world.\nPlease, go help them.\nSave them all!"
+        },
+        "monster_summary": {
+          "ja": "ウカムルバス",
+          "en": "Ukanlos"
+        },
+        "requester": {
+          "ja": "心優しき領主",
+          "en": "Kind-Hearted Lord"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 636,
+      "en_pointer_offset": 636
+    },
+    "m60045.mib": {
+      "fields": {
+        "title": {
+          "ja": "水没林のフロントライン",
+          "en": "Flooded Forest's Front Line"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt all Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "大変だ！　水没林にモンスター達\nが現れた…いや大群と言った方が\n良いかもしれない。前線で警備隊\nが応戦しているが、数が多すぎて\n耐えきれそうにない！　頼む、\n水没林の安全を守ってくれ！",
+          "en": "Disaster! Monsters appeared\nin the forest - no, a horde!\nThe guards are fighting,\nbut there are too many!\nSave the Flooded Forest!\nGood luck!"
+        },
+        "monster_summary": {
+          "ja": "ロアルドロス、ナルガクルガ\nロアルドロス亜種など",
+          "en": "R.Ludroth, Nargacuga, P.Ludroth\nDuramboros, G.Nargacuga"
+        },
+        "requester": {
+          "ja": "水没林の警備隊員",
+          "en": "Flooded Forest Guard"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 736,
+      "en_pointer_offset": 736
+    },
+    "m60041.mib": {
+      "fields": {
+        "title": {
+          "ja": "塵雪の乱気流",
+          "en": "Snow and Dust Turbulence"
+        },
+        "objective": {
+          "ja": "ベリオロス１頭と\nベリオロス亜種１頭の狩猟",
+          "en": "Hunt the Barioth and\nSand Barioth"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "竜巻を起こす氷牙竜と風牙竜。\nこの二頭の力が合わさったとき、\nどんな化学反応を起こすのか。\n…深い、深いわ、たいへん興味\n深いわ！！　実験に協力して\nくれるハンターを募集中よ！",
+          "en": "Barioth and Sand Barioth.\nWhat happens when their\ntornadoes combine?\nHow fascinating!\nI need hunters for my\nexperiment!"
+        },
+        "monster_summary": {
+          "ja": "ベリオロス\nベリオロス亜種",
+          "en": "Barioth\nSand Barioth"
+        },
+        "requester": {
+          "ja": "酔狂な気象学者",
+          "en": "Eccentric Meteorologist"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 692,
+      "en_pointer_offset": 692
+    },
+    "m60036.mib": {
+      "fields": {
+        "title": {
+          "ja": "激走！　白兎獣と狩人",
+          "en": "White Rabbit Beast!"
+        },
+        "objective": {
+          "ja": "ウルクスス１頭の狩猟",
+          "en": "Hunt the Lagombi"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "最速商人参上！　夜露四苦ッ！\nソリの速さが自慢だゼ！\n…だが、俺は奴に敗れちまった。\nだれか俺の仇を討ってくれ！\nかわいいウサギさんに見えるが\n見た目に騙されるなよ！！",
+          "en": "Fastest merchant, arriving!\nMy sled is the speediest!\n...But I lost to that thing.\nSomeone avenge me!\nDon't let the cute bunny\nfool you!"
+        },
+        "monster_summary": {
+          "ja": "バギィ\nメラルー",
+          "en": "Baggi\nMelynx"
+        },
+        "requester": {
+          "ja": "凍土最速ソリ乗り",
+          "en": "Tundra's Fastest Sledder"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 648,
+      "en_pointer_offset": 648
+    },
+    "m60027.mib": {
+      "fields": {
+        "title": {
+          "ja": "アイルー村からオトモへ",
+          "en": "Comrades from the Village"
+        },
+        "objective": {
+          "ja": "アイルー２０匹の討伐",
+          "en": "Hunt 20 Felynes"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "ニャニャニャーーン！！\nアイルー村で大人気の服を、\nプレゼントしにきたニャ！\nただし！　タダであげるわけには\nいかないニャよ。ボクらの挑戦に\n勝ってからニャ。さぁ来いニャ！",
+          "en": "Nya-nya-nyaaaan!!\nI brought popular clothes\nfrom a Felyne Village!\nBut they aren't free.\nBeat my challenge first!\nCome on, meow!"
+        },
+        "monster_summary": {
+          "ja": "アイルー\nメラルー",
+          "en": "Felyne\nMelynx"
+        },
+        "requester": {
+          "ja": "ぽかぽか大使アイルー",
+          "en": "Poka Poka Ambassador"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 668,
+      "en_pointer_offset": 668
+    },
+    "m60032.mib": {
+      "fields": {
+        "title": {
+          "ja": "覇王降臨",
+          "en": "Overlord of Descent"
+        },
+        "objective": {
+          "ja": "アカムトルムの討伐",
+          "en": "Slay Akantor"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "火山の奥地にある溶岩峡谷に覇王\nと呼ばれる飛竜がおるのだが、\n今にもそこから動きだそうと\nしておる。もし我が国を通る\nことにでもなったら…。狩人よ！\nその力、余に貸してくれ！",
+          "en": "A sky king called the Tyrant\nis in the Lava Canyon.\nHe's about to move.\nIf he crosses our borders...\nHunter, lend me your power!\nFor the kingdom!"
+        },
+        "monster_summary": {
+          "ja": "アカムトルム",
+          "en": "Akantor"
+        },
+        "requester": {
+          "ja": "人望厚い国王",
+          "en": "Popular King"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 632,
+      "en_pointer_offset": 632
+    },
+    "m60044.mib": {
+      "fields": {
+        "title": {
+          "ja": "集え！　砂原の最終決戦",
+          "en": "Final Battle of the Desert"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt all Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "かつての私であれば、この任務で\n命を落としていただろう。\nだが、今は違う。私と…君たち\nギルドのハンターがいるのだ。\n恐れるものなどこの先にはない。\nさあ、進軍を開始しよう！",
+          "en": "The old me would have died\non this mission.\nBut now, I have you hunters.\nWe have nothing to fear.\nLet the march begin!\nForward!"
+        },
+        "monster_summary": {
+          "ja": "ハプルボッカ、ベリオロス亜種\nボルボロスなど",
+          "en": "Nibelsnarf, S.Barioth, Barroth\nB.Tigrex, B.Diablos"
+        },
+        "requester": {
+          "ja": "年若い将軍",
+          "en": "Young Shogun"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 712,
+      "en_pointer_offset": 712
+    },
+    "m60042.mib": {
+      "fields": {
+        "title": {
+          "ja": "ガーグァと卵と渓流と",
+          "en": "Gargwa, Eggs, and the Peaks"
+        },
+        "objective": {
+          "ja": "ガーグァの卵１０個納品",
+          "en": "Deliver 10 Gargwa Eggs"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "ガーグァの卵は天然モノに限る！\n私の美食魂にかけて、これだけは\n譲れないの。さらに言わせてもら\nうなら、渓流産の卵しか口にした\nくないわ。ああ、待ちきれない！\nはやく卵を持ってきて！",
+          "en": "Gargwa eggs must be wild!\nMy gourmet soul demands\nonly those from the Misty\nPeaks. I can't wait anymore!\nBring me those eggs!\nI need them!"
+        },
+        "monster_summary": {
+          "ja": "ジンオウガ\nガーグァ",
+          "en": "Zinogre\nGargwa"
+        },
+        "requester": {
+          "ja": "卵好きのお姉さん",
+          "en": "Egg-Loving Lady"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 684,
+      "en_pointer_offset": 684
+    },
+    "m60052.mib": {
+      "fields": {
+        "title": {
+          "ja": "吠える稲妻、轟く激震",
+          "en": "Barking Lightning Roaring Quake"
+        },
+        "objective": {
+          "ja": "ジンオウガ１頭と\nドボルベルク１頭の狩猟",
+          "en": "Hunt the Zinogre and\nDuramboros"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "渓流でのんびり山菜採りをして\nおったら、突然の雷鳴と地震が\nあってたまげたわい。突然の天変\n地異に驚いて、採取道具を忘れて\nきてしもうた。ハンターさん、\n取りに行ってもらえんか？",
+          "en": "I was picking herbs by the\nstream when a bolt hit!\nI was so scared, I left\nmy tools behind.\nCan you go get them?\nPlease, hunter!"
+        },
+        "monster_summary": {
+          "ja": "ジャギィ\nガーグァ",
+          "en": "Jaggi\nGargwa"
+        },
+        "requester": {
+          "ja": "山菜採りの老人",
+          "en": "Veggie Elder"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 692,
+      "en_pointer_offset": 692
+    },
+    "m60034.mib": {
+      "fields": {
+        "title": {
+          "ja": "嵐龍天翔",
+          "en": "Storm Dragon Heaven Show"
+        },
+        "objective": {
+          "ja": "アマツマガツチの討伐",
+          "en": "Slay Amatsu"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "終焉の鐘は鳴らされた！\n厄災の龍と恐れられる伝説の\n龍アマツマガツチ。その暴風を\n前にハンター達はどこまで\n立ち向かえるのか！　人の希望と\n可能性を見せてくれたまえ。",
+          "en": "The final bell has tolled!\nThe legendary storm dragon,\nAmatsu, is here.\nHow will hunters stand?\nShow us human potential!\nFace the wind!"
+        },
+        "monster_summary": {
+          "ja": "アマツマガツチ",
+          "en": "Amatsu"
+        },
+        "requester": {
+          "ja": "謎の赤衣の男",
+          "en": "Man in Red Clothing"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 624,
+      "en_pointer_offset": 624
+    },
+    "m60023.mib": {
+      "fields": {
+        "title": {
+          "ja": "水没林に集いしものたち",
+          "en": "Flooded Forest Continuous Hunt"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt all Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "今度、重大な取引があるのに\n水没林にモンスターが集まって\n船が出航できないゼヨ。\nもし水没林を解放してくれたら、\n珍しい交易品をプレゼントする\nので、どうか助けてくれゼヨ。",
+          "en": "I have a big deal soon,\nbut monsters in the forest\nare stopping my ship, zeyo.\nHelp me, and I'll give you\nrare trade goods,\nplease, zeyo!"
+        },
+        "monster_summary": {
+          "ja": "ロアルドロス亜種、ドボルベルク\nナルガクルガ亜種",
+          "en": "Purple Ludroth, Duramboros\nGreen Nargacuga"
+        },
+        "requester": {
+          "ja": "交易船の船長",
+          "en": "Argosy Captain"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 712,
+      "en_pointer_offset": 712
+    },
+    "m60043.mib": {
+      "fields": {
+        "title": {
+          "ja": "渓流の一番長い日",
+          "en": "Long Day in the Misty Peaks"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt all Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "感じませんか、このピリピリと\n張り詰めた空気…渓流に何か荒々\nしい気が漂っています。わたくし\n不安で堪りませんの…、ハンター\n様、是非渓流に赴いて、この気を\n鎮めていただけませんか。",
+          "en": "Don't you feel the tension?\nA wild energy is drifting\nthrough the Misty Peaks.\nI'm so worried... Hunter,\nplease go calm the area.\nHurry!"
+        },
+        "monster_summary": {
+          "ja": "ナルガクルガ、ジンオウガ\nドボルベルクなど",
+          "en": "Nargacuga, Zinogre, Duramboros\nG.Rathian, S.Rathalos"
+        },
+        "requester": {
+          "ja": "ユクモ村の村長",
+          "en": "Yukumo Chief"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 716,
+      "en_pointer_offset": 716
+    },
+    "m60035.mib": {
+      "fields": {
+        "title": {
+          "ja": "幻のウラガンキン",
+          "en": "Phantom Uragaan"
+        },
+        "objective": {
+          "ja": "ウラガンキン１頭の狩猟",
+          "en": "Hunt the Uragaan"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "知っておるか？　火山の一角で、\nものすご～く小さくてカワイイ\n爆鎚竜が目撃されたのじゃ！\nわらわはもう、見たくて見たくて\nたまらぬぞ。今すぐ行って狩って\nまいれ！",
+          "en": "Did you know? A teeny, tiny,\ncute Uragaan was spotted\nin the Volcano!\nI simply must see it.\nGo out and hunt it for me\nright now!"
+        },
+        "monster_summary": {
+          "ja": "ウロコトル\nリノプロス",
+          "en": "Uroktor\nRhenoplos"
+        },
+        "requester": {
+          "ja": "わがままな第三王女",
+          "en": "Spoiled 3rd Princess"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 656,
+      "en_pointer_offset": 656
+    },
+    "m60030.mib": {
+      "fields": {
+        "title": {
+          "ja": "峯山龍、来る！！",
+          "en": "Come at me, Jhen Mohran!!"
+        },
+        "objective": {
+          "ja": "ジエン・モーランの討伐",
+          "en": "Slay Jhen Mohran"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ、タイムアップ\n撃龍船の耐久度ゼロ",
+          "en": "Reward Zero, Time Over\nor Defense Over"
+        },
+        "request_description": {
+          "ja": "砂漠の街に破壊と繁栄をもたらす\n峯山龍が、砂の海に姿を現しまし\nたぞ！　しかも報告では、今回は\n普段より少々厄介だとか…。\nくれぐれもお気をつけて、その分\n報酬は期待できますぞ！",
+          "en": "Jhen Mohran, bringer of\nruin and prosperity, has\nappeared in the sand sea!\nReports say he's extra\ntricky this time.\nBe careful!"
+        },
+        "monster_summary": {
+          "ja": "ジエン・モーラン\nデルクス",
+          "en": "Jhen Mohran\nDelex"
+        },
+        "requester": {
+          "ja": "ギルドマスター",
+          "en": "Guild Master"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 708,
+      "en_pointer_offset": 708
+    },
+    "m60024.mib": {
+      "fields": {
+        "title": {
+          "ja": "狩猟戦線からの招待",
+          "en": "Hunting Invitation"
+        },
+        "objective": {
+          "ja": "ディアブロス２頭の狩猟",
+          "en": "Hunt 2 Diablos"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "知ってるか？　ディアブロス２頭\nを同時に狩猟できれば、\nあの狩猟戦線入りできるんだぜ！\nかなり難しークエストだが…、\nこれを達成すれば、お前らも男に\nなれるぜ！",
+          "en": "Hear this? Hunt two Diablos\nat once, and you can join\nthe Hunting Front!\nIt's tough, but it'll\nmake a man out of you!\nProve it!",
+          "legacy_en": "Hear this? Hunt two Diablos\nat once, and you can join\nthe Hunting Front!\nIt�s tough, but it'll\nmake a man out of you!\nProve it!"
+        },
+        "monster_summary": {
+          "ja": "ディアブロス",
+          "en": "Diablos"
+        },
+        "requester": {
+          "ja": "男を磨くハンター",
+          "en": "Polished Hunter"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 636,
+      "en_pointer_offset": 636
+    },
+    "m60053.mib": {
+      "fields": {
+        "title": {
+          "ja": "丸尻尾と尖尻尾",
+          "en": "Rounded Tail and Pointed Tail"
+        },
+        "objective": {
+          "ja": "ドボルベルク1頭と\nナルガクルガ亜種１頭の狩猟",
+          "en": "Hunt the Duramboros\nand Green Nargacuga"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "丸い尻尾と尖った尻尾は\nどちらが素敵に見えるかニャ？\n水没林に尾槌竜と緑迅竜が現れた\nみたいニャ。どっちの尻尾が強く\n格好良く見えたか教えてほしい\nニャ！",
+          "en": "Which looks more lovely meow?\nRound tails or pointy tails?\nDuramboros and Nargacuga are\nin the forest!\nTell me which tail is cooler,\nmeow!"
+        },
+        "monster_summary": {
+          "ja": "フロギィ\nケルビ",
+          "en": "Wroggi\nKelbi"
+        },
+        "requester": {
+          "ja": "悩めるアイルー",
+          "en": "Troubled Felyne"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 652,
+      "en_pointer_offset": 652
+    },
+    "m60038.mib": {
+      "fields": {
+        "title": {
+          "ja": "王族の招宴",
+          "en": "A Royal Banquet"
+        },
+        "objective": {
+          "ja": "リオレイア希少種１頭と\nリオレウス希少種１頭の狩猟",
+          "en": "Hunt the Gold Rathian and\nSilver Rathalos"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "莫大な投資をして、ついに幻の\n金火竜と銀火竜を揃えたものの、\n挑むハンターが１人もいない\nなんて！　うかつだった…。\nこのままじゃ大損害だ！　誰でも\nいいから名乗りをあげてくれ～！",
+          "en": "I spent a fortune to get a\nGold and Silver Rath pair,\nbut no hunters will fight!\nI'll lose everything!\nAnyone, sign up, please!\nI'm begging you!"
+        },
+        "monster_summary": {
+          "ja": "リオレイア希少種\nリオレウス希少種",
+          "en": "Gold Rathian\nSilver Rathalos"
+        },
+        "requester": {
+          "ja": "うかつな投資家",
+          "en": "Careless Investor"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 724,
+      "en_pointer_offset": 724
+    },
+    "m60016.mib": {
+      "fields": {
+        "title": {
+          "ja": "ファミ通・大角と巨鎚、再び！",
+          "en": "FAMITSU - Giant Hammer & Horn!"
+        },
+        "objective": {
+          "ja": "ディアブロス亜種１頭と\nウラガンキン亜種１頭の狩猟",
+          "en": "Hunt the Black Diablos and\nSteel Uragaan"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "角竜と爆鎚竜、強いのはどっち？\n先送りにされた結論を出すため、\n今度は亜種同士の対決に！\nハンターさん、よろしくお願い\nします！　今回も特別な武器が\n生産できるチケットを進呈！",
+          "en": "Diablos or Uragaan: who's\nstronger? To settle it,\nit's a clash of Subspecies!\nHunter, we need you!\nSpecial weapon tickets\nas a prize!"
+        },
+        "monster_summary": {
+          "ja": "ディアブロス亜種\nウラガンキン亜種",
+          "en": "Black Diablos\nSteel Uragaan"
+        },
+        "requester": {
+          "ja": "ファミ通編集部",
+          "en": "Famitsu Editorial Dept."
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 740,
+      "en_pointer_offset": 740
+    },
+    "m60010.mib": {
+      "fields": {
+        "title": {
+          "ja": "ＪＵＭＰ・連撃の炎戈竜！！",
+          "en": "JUMP - Agnaktor Attack!!"
+        },
+        "objective": {
+          "ja": "アグナコトル３頭の連続狩猟",
+          "en": "Hunt 3 Agnaktor consecutively"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "火山に現れた複数の炎戈竜。\nハンターの中のハンターにしか\n頼めないこの依頼、見事達成して\nみせてくれ！　報酬として伝説の\n大海賊が用いたという剣斧を生産\nできるチケットを贈呈するぜ！",
+          "en": "Multiple Agnaktors in the\nVolcano.\nOnly a true hunter can do it.\nSucceed and get a ticket\nfor a legendary pirate's\nSwitch Axe!"
+        },
+        "monster_summary": {
+          "ja": "ウロコトル\nリノプロス",
+          "en": "Uroktor\nRhenoplos"
+        },
+        "requester": {
+          "ja": "隻眼黒髭の男",
+          "en": "One-Eyed Blackbeard"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 700,
+      "en_pointer_offset": 700
+    },
+    "m60025.mib": {
+      "fields": {
+        "title": {
+          "ja": "恐暴の宴",
+          "en": "Rage Match"
+        },
+        "objective": {
+          "ja": "イビルジョー２頭の狩猟",
+          "en": "Hunt 2 Deviljho"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "邪なる捕食者、貪欲の象徴、地を\n食らう者、恐暴竜イビルジョー！\n我らが闘技場に、この史上最凶の\nモンスターが２頭もやってきた！\n果たしてどんなハンターが、立ち\n向かうのか？　刮目して見よ！",
+          "en": "Evil predator, greed incarnate\nThe World Eater, Deviljho!\nTwo of the worst are here\nin our very own Arena!\nWatch as hunters face them!\nDon't look away!"
+        },
+        "monster_summary": {
+          "ja": "イビルジョー",
+          "en": "Deviljho"
+        },
+        "requester": {
+          "ja": "闘技場の主",
+          "en": "Arena Manager"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 656,
+      "en_pointer_offset": 656
+    },
+    "m60029.mib": {
+      "fields": {
+        "title": {
+          "ja": "孤島のたまご祭り！",
+          "en": "Island Egg Festival！"
+        },
+        "objective": {
+          "ja": "竜の卵３個の納品",
+          "en": "Deliver 3 Wyvern Egg"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "グルメの基本は、なんと言っても\n竜の卵ざますわね！　パーティー\nを開くために、いつもより多めに\n調達をお願いするわ。\n竜の巣は、海沿いと高台の２ヵ所\nにあるらしいわよ。",
+          "en": "The basis of gourmet food\nis Wyvern Eggs, darling!\nI need a lot for my party.\nCheck the coast and the\nhigh ground for nests!\nBe quick!"
+        },
+        "monster_summary": {
+          "ja": "リオレイア\nジャギィ",
+          "en": "Rathian\nJaggi"
+        },
+        "requester": {
+          "ja": "食道楽を究めた貴婦人",
+          "en": "Epicurean Lady"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 656,
+      "en_pointer_offset": 656
+    },
+    "m60017.mib": {
+      "fields": {
+        "title": {
+          "ja": "ファミ通・峯山龍、討伐祭り",
+          "en": "Famitsu - Mineyama Dragon Party"
+        },
+        "objective": {
+          "ja": "ジエン・モーランの討伐",
+          "en": "Slay Jhen Mohran"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ、タイムアップ\n撃龍船の耐久度ゼロ",
+          "en": "Reward Zero, Time Over\nor Defense Over"
+        },
+        "request_description": {
+          "ja": "祭りだと聞いて来た編集部。\nまさか祭りが峯山龍の討伐作戦\nの事とはつゆしらず…。\n祭りを大成功させたあかつきには\n素敵なオトモ武具が作れる\nチケットを進呈します！",
+          "en": "We came for a Famitsu festival,\nnot a Jhen Mohran hunt!\nIf the festival succeeds,\nyou'll get a ticket for\nwonderful Palico gear!\nJoin the fun!"
+        },
+        "monster_summary": {
+          "ja": "ジエン・モーラン\nデルクス",
+          "en": "Jhen Mohran\nDelex"
+        },
+        "requester": {
+          "ja": "ファミ通編集部",
+          "en": "Famitsu Editorial Dept."
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 700,
+      "en_pointer_offset": 700
+    },
+    "m60019.mib": {
+      "fields": {
+        "title": {
+          "ja": "電撃の双舞踏",
+          "en": "Dengeki - Twin Dance"
+        },
+        "objective": {
+          "ja": "ギギネブラ亜種２頭の狩猟",
+          "en": "Hunt 2 Baleful Gigginox"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "電撃の編集部からの挑戦状！\n電気を操る怪竜。それも２頭を\n前にキミは勝利できるか！？\nもしクリアできたらシビれる\nような武器が作れるチケットを\nプレゼントするよ。",
+          "en": "A challenge from Dengeki!\nCan you defeat two dragons\nthat command electricity!?\nClear it for a ticket to\nmake shocking weapons.\nStay sharp!"
+        },
+        "monster_summary": {
+          "ja": "ギギネブラ亜種",
+          "en": "Baleful Gigginox"
+        },
+        "requester": {
+          "ja": "電撃の編集部",
+          "en": "Dengeki Editorial Dept."
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 628,
+      "en_pointer_offset": 628
+    },
+    "m60028.mib": {
+      "fields": {
+        "title": {
+          "ja": "モンハン部・特選クエスト！",
+          "en": "Monster Hunter - Signature Quest!"
+        },
+        "objective": {
+          "ja": "クルペッコ１頭の狩猟",
+          "en": "Hunt the Qurupeco"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "やぁ、みんな。狩りしてる？\n今日も楽しくクエストへ出発だ！\nさてさて今回のモンスターは…\n何とちっちゃいクルペッコだ！\n見事倒したら、すてきな防具が\n君のものだ。早速行ってみよう！",
+          "en": "Hey everyone, hunting much?\nLet's head out today!\nOur target this time is...\na tiny Qurupeco!\nWin, and cool armor is yours!\nLet's go!"
+        },
+        "monster_summary": {
+          "ja": "ジャギィ\nジャギィノス",
+          "en": "Jaggi\nJaggia"
+        },
+        "requester": {
+          "ja": "モンハン部サポーター",
+          "en": "MHP Club Supporter"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 696,
+      "en_pointer_offset": 696
+    },
+    "m60011.mib": {
+      "fields": {
+        "title": {
+          "ja": "ＪＵＭＰ・小兵の狂乱",
+          "en": "JUMP - Small Soldier Frenzy"
+        },
+        "objective": {
+          "ja": "クルペッコ亜種１頭の狩猟",
+          "en": "Hunt the Crimson Qurupeco"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "火山の一角でえらく小さい紅彩鳥\nが目撃された。小さいだけでも\n不思議なのにさらに紅彩鳥の\n周りで爆音が響いてたそうだ。\n原因を解明してくれたら特別な\nチケットを贈呈するぜ！",
+          "en": "A tiny Qurupeco was seen in\nthe Volcano.\nOddly, loud explosions\nfollowed it.\nSolve this mystery for a\nspecial ticket!"
+        },
+        "monster_summary": {
+          "ja": "ウロコトル\nフロギィ",
+          "en": "Uroktor\nWroggi"
+        },
+        "requester": {
+          "ja": "隻眼黒髭の男",
+          "en": "One-Eyed Blackbeard"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 664,
+      "en_pointer_offset": 664
+    },
+    "m60001.mib": {
+      "fields": {
+        "title": {
+          "ja": "武装戦線・男たちの勝負！",
+          "en": "Armed Front - Men's Game!"
+        },
+        "objective": {
+          "ja": "ボルボロス２頭の狩猟",
+          "en": "Hunt 2 Barroth"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "武闘派モンスター２頭の狩猟。\n一筋縄じゃいかねぇこの依頼、\n見事ものにすることができれば、\nお前を≪男≫と認めてやる。\n武装のドクロを背負う資格が\nあるか、見させてもらうぜ。",
+          "en": "Hunting two brawlers.\nThis won't be easy.\nSucceed, and I'll see you\nas a man.\nShow me you're worthy\nof the skull crest."
+        },
+        "monster_summary": {
+          "ja": "リノプロス\nジャギィ",
+          "en": "Rhenoplos\nJaggi"
+        },
+        "requester": {
+          "ja": "武装戦線七代目ヘッド",
+          "en": "TFOA 7th Gen Leader"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 680,
+      "en_pointer_offset": 680
+    },
+    "m60005.mib": {
+      "fields": {
+        "title": {
+          "ja": "ＹＡＩＢＡ・風神と雷神",
+          "en": "YAIBA - Fujin and Raijin"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt Sand Barioth,Zinogre"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "強いと評判の風竜と雷竜。見事\n討ち果たさんと勢い勇んで来たが\n急に腰痛が…おヌシちょちょいと\nワシに代わり倒してくるのじゃ。\nうまくいったら、秘蔵の奥義書を\nやろうではないか。",
+          "en": "I came for the famous\nWind and Thunder Dragons,\nbut my back gave out...\nGo in my stead, will you?\nI'll give you a secret\nTome if you win."
+        },
+        "monster_summary": {
+          "ja": "ベリオロス亜種\nジンオウガ",
+          "en": "Sand Barioth\nZinogre"
+        },
+        "requester": {
+          "ja": "眼光鋭い小柄な老人",
+          "en": "Sharp-eyed Old Man"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 696,
+      "en_pointer_offset": 696
+    },
+    "m60037.mib": {
+      "fields": {
+        "title": {
+          "ja": "巨大熊、山中を破壊す",
+          "en": "Big Bear, Mountain Destroyer"
+        },
+        "objective": {
+          "ja": "アオアシラ１頭の狩猟",
+          "en": "Hunt the Arzuros"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "ウス！　俺は見たであります！\n巨大で青いアシラさんが、森の中\nで暴れまくっていやがりました。\n見るからに凶暴な振る舞いに\n近づくのは無理であります。\n代わりに頼むであります！",
+          "en": "Yes! I saw it! A giant,\nblue Azuros was rampaging\nwildly in the forest.\nIt was too scary to get\nclose to at all.\nDo it for me, please!"
+        },
+        "monster_summary": {
+          "ja": "ジャギィ\nガーグァ",
+          "en": "Jaggi\nGargwa"
+        },
+        "requester": {
+          "ja": "巨漢の警備兵",
+          "en": "Burly Guard"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 656,
+      "en_pointer_offset": 656
+    },
+    "m60015.mib": {
+      "fields": {
+        "title": {
+          "ja": "ファミ通・状態異常を克服せよ",
+          "en": "FAMITSU - The Abnormal!"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt all Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "麻痺！　毒！　睡眠！　我々を\n悩ませる状態異常を克服するため\n火山の大連続狩猟に挑め！\nただし武器は、ガンランス限定！\nその代わり、勝者には、黄金の銃\n槍が生産できるチケットを進呈！",
+          "en": "Paralysis! Poison! Sleep!\nConquer these ailments in a\nVolcano Great Hunt!\nOnly Gunlances allowed!\nThe prize: A Golden\nGunlance ticket!"
+        },
+        "monster_summary": {
+          "ja": "ラングロトラ、ドスフロギィ\nウラガンキン",
+          "en": "Volvidon, Great Wroggi\nUragaan"
+        },
+        "requester": {
+          "ja": "ファミ通編集部",
+          "en": "Famitsu Editorial Dept."
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 728,
+      "en_pointer_offset": 728
+    },
+    "m60008.mib": {
+      "fields": {
+        "title": {
+          "ja": "マガジン・水没林調査班！",
+          "en": "Magazine - Forest Investigation!"
+        },
+        "objective": {
+          "ja": "イビルジョー１頭と\nナルガクルガ１頭の狩猟",
+          "en": "Hunt Deviljho and\nNargacuga"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "みんな！　この文献を見てくれ…\n『水没林で黒き疾風と暴食の王が\n出会うとき、大いなる絶望が\n刻まれる…』つまり、そのとき\nこの地上の文明は滅亡する！\n「…な、なんだってー！？」",
+          "en": "Look at this! \"When the\nBlack Wind and Glutton King\nmeet, despair is certain...\"\nCivilization will end!\n\"...W-What did you say!?\"\nThis is bad!"
+        },
+        "monster_summary": {
+          "ja": "ルドロス\nズワロポス",
+          "en": "Ludroth\nSlagtoth"
+        },
+        "requester": {
+          "ja": "知的な眼鏡の男",
+          "en": "Intellectual Man"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 704,
+      "en_pointer_offset": 704
+    },
+    "m60003.mib": {
+      "fields": {
+        "title": {
+          "ja": "クローズ・鈴蘭最強への証明",
+          "en": "Crows - Proof of the Strongest"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt the Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "これだけの強敵の連続狩猟。\nムチャといえばそうなんだが…。\nこのクエストをこなしてしまう\nハンターがいるのであれば、\nここにある鈴蘭最強の証を\n受け継ぐべきじゃねーのかな。",
+          "en": "Hunting these tough foes\nconsecutively is reckless...\nBut if a hunter can do it,\nthey deserve to inherit\nsome \"Lily Strength\" tickets\nfor their trouble."
+        },
+        "monster_summary": {
+          "ja": "リオレウス、ティガレックス\nナルガクルガ",
+          "en": "Rathalos, Tigrex\nNargacuga"
+        },
+        "requester": {
+          "ja": "金髪グラサンの男",
+          "en": "Man in Blonde Shades"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 716,
+      "en_pointer_offset": 716
+    },
+    "m60012.mib": {
+      "fields": {
+        "title": {
+          "ja": "ＪＵＭＰ・２つの赤き凶弾",
+          "en": "JUMP - Two Red Bullets"
+        },
+        "objective": {
+          "ja": "ラングロトラ２頭の狩猟",
+          "en": "Hunt 2 Volvidon"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "砂原に２つの赤い物体が落ちた。\n調査に行った俺の部下が、戻って\nこねえんだ。そこで、お前の出番\nという訳だ。報酬は…オトモが\nいっぱしの海賊になれるような\nとっておきを準備しとくぜ。",
+          "en": "Two red objects fell in the\nPlains.\nMy men haven't come back.\nIt's your turn now.\nThe reward... pirate gear\nfor your Palico!"
+        },
+        "monster_summary": {
+          "ja": "ジャギィ\nリノプロス",
+          "en": "Jaggi\nRhenoplos"
+        },
+        "requester": {
+          "ja": "隻眼黒髭の男",
+          "en": "One-Eyed Blackbeard"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 684,
+      "en_pointer_offset": 684
+    },
+    "m60020.mib": {
+      "fields": {
+        "title": {
+          "ja": "ＭＧＳ・ハンターイーター作戦",
+          "en": "MGS - Hunter Eater Mission"
+        },
+        "objective": {
+          "ja": "ハプルボッカ１頭の狩猟",
+          "en": "Hunt the Nibelsnarf"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "ハンターの旦那達！　オイラは\nとある場所ですごい素材を手に入\nれてきたのニャ！　これがあれば\n伝説の傭兵そっくりの装備が作れ\nるかもしれないニャ！　全ては\nこのクエストの成否次第だニャ！",
+          "en": "Nya! Hunter! I found amazing\nmaterials in a certain place!\nYou can make gear just like\na legendary mercenary!\nIt all depends on\nthis quest, meow!"
+        },
+        "monster_summary": {
+          "ja": "リノプロス\nデルクス",
+          "en": "Rhenoplos\nDelex"
+        },
+        "requester": {
+          "ja": "ヘルメットのアイルー",
+          "en": "Helmeted Felyne"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 704,
+      "en_pointer_offset": 704
+    },
+    "m60013.mib": {
+      "fields": {
+        "title": {
+          "ja": "ファミ通・大角と巨鎚の激突！",
+          "en": "FAMITSU - Horn & Hammer!"
+        },
+        "objective": {
+          "ja": "ディアブロス１頭と\nウラガンキン１頭の狩猟",
+          "en": "Hunt the Diablos and\nUragaan"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "角竜と爆鎚竜、強いのはどっち？\nこのナゾを解くべく、編集部は\n闘技場へ向かうも、あっさり返り\n討ち。ここはハンターに頼む\nしか…。勝者には、専用武器生産\n用のチケットを進呈するぞ！",
+          "en": "Diablos or Uragaan: who's\nstronger?\nThe editors went to see\nbut got thrashed.\nWe need a hunter!\nWinners get tickets."
+        },
+        "monster_summary": {
+          "ja": "ディアブロス\nウラガンキン",
+          "en": "Diablos\nUragaan"
+        },
+        "requester": {
+          "ja": "ファミ通編集部",
+          "en": "Famitsu Editorial Dept."
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 724,
+      "en_pointer_offset": 724
+    },
+    "m60004.mib": {
+      "fields": {
+        "title": {
+          "ja": "犬夜叉・大妖の牙を求めて",
+          "en": "Inuyasha - Ancient Mystic Fang"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt the Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "もっとも過酷な狩り場の１つ、\n凍土での大連続狩猟！\nこれを達成したハンターには、\n少年サンデー編集部より、強力な\n太刀の素材≪伝説の妖怪≫の牙を\n差し上げます！",
+          "en": "A Great Hunt in the Tundra,\none of the harshest lands!\nSunday editors offer a prize\nfor this: \"Lrg Ancient Fang\"\nto produce a powerful blade!\nGo get them!"
+        },
+        "monster_summary": {
+          "ja": "ドスバギィ、ギギネブラ\nベリオロス",
+          "en": "Great Baggi, Gigginox\nBarioth"
+        },
+        "requester": {
+          "ja": "少年サンデー編集部",
+          "en": "Shonen Sunday Editor"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 688,
+      "en_pointer_offset": 688
+    },
+    "m60018.mib": {
+      "fields": {
+        "title": {
+          "ja": "電撃・ダブルライジング！",
+          "en": "Dengeki - Double Rising!"
+        },
+        "objective": {
+          "ja": "ジンオウガ２頭の狩猟",
+          "en": "Hunt 2 Zinogre"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "電撃編集部の今回の依頼は…、\n場所は孤島！\n相手はかの雷狼竜、しかも２頭！\nこのクエストを成功させた方には\nエレクトリカルな音色を奏でる\n狩猟笛が作れるチケットを進呈！",
+          "en": "Dengeki's request...\nThe Deserted Island!\nTwo Zinogres!\nSucceed for a ticket\nto make a Hunting Horn\nwith electrical tones!"
+        },
+        "monster_summary": {
+          "ja": "ジャギィ\nジャギィノス",
+          "en": "Jaggi\nJaggia"
+        },
+        "requester": {
+          "ja": "電撃の編集部",
+          "en": "Dengeki Editorial Dept."
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 660,
+      "en_pointer_offset": 660
+    },
+    "m60002.mib": {
+      "fields": {
+        "title": {
+          "ja": "範馬刃牙・鬼の遺伝子",
+          "en": "Blade Fang - Ogre Genes"
+        },
+        "objective": {
+          "ja": "ジンオウガ１頭の狩猟",
+          "en": "Hunt Zinogre"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "狩人として生まれたからには、\n誰だって一度は地上最強を志す！\nさあ強者よ、裸がっぷり四ツ、\n己が強さを見せつけてくれいッ！\n見事勝ち得た者には≪証≫を\n進呈しようではないかッ！",
+          "en": "Born as a hunter, everyone\naims for the top!\nCome, strong one, naked,\nshow us your true power!\nA \"Proof\" for the winner\nwill be yours!"
+        },
+        "monster_summary": {
+          "ja": "ジンオウガ",
+          "en": "Zinogre"
+        },
+        "requester": {
+          "ja": "徳川家十三代目当主",
+          "en": "13th Tokugawa Head"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 660,
+      "en_pointer_offset": 660
+    },
+    "m60022.mib": {
+      "fields": {
+        "title": {
+          "ja": "ユニクロ・究極素材の追求",
+          "en": "UNIQLO - Ultimate Material"
+        },
+        "objective": {
+          "ja": "ティガレックス亜種２頭の狩猟",
+          "en": "Hunt 2 Brute Tigrex"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "格好良いデザインの装備を\nハンターさんのために考えたよ！\nこだわりの素材を使用している\nので、手に入り難いのが困りもの\nなんだ。良い装備のために、\n協力してくれないかい？",
+          "en": "I designed some cool gear\njust for you, Hunter!\nBut the materials are rare\nand hard to find.\nWill you help me out?\nIt'll be great!"
+        },
+        "monster_summary": {
+          "ja": "ウロコトル\nアプトノス",
+          "en": "Uroktor\nAptonoth"
+        },
+        "requester": {
+          "ja": "こだわりの匠",
+          "en": "Particular Artisan"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 676,
+      "en_pointer_offset": 676
+    },
+    "m60021.mib": {
+      "fields": {
+        "title": {
+          "ja": "ＭＧＳ・ソリッド＆リキッド",
+          "en": "MGS - Solid and Liquid"
+        },
+        "objective": {
+          "ja": "アグナコトル亜種１頭と\nボルボロス亜種１頭の狩猟",
+          "en": "Hunt the Jade Barroth\nand Glacial Agnaktor"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "今回オイラはオトモにピッタリの\n装備を考えたのニャー！　なんと\n伝説の英雄になりきる事ができる\n夢のようなオトモ装備なのニャ！\nそんな装備が作れるかもしれない\nクエスト、挑戦しないかニャ？",
+          "en": "This gear makes your Palico\ninto a legendary hero!\nIt's a dream-come-true set!\nWant to try the quest\nto craft it,\nright now, meow?",
+          "legacy_en": "This gear makes your Palico\ninto a legendary hero!\nIt�s a dream-come-true set!\nWant to try the quest\nto craft it,\nright now, meow?"
+        },
+        "monster_summary": {
+          "ja": "バギィ\nガウシカ",
+          "en": "Baggi\nAnteka"
+        },
+        "requester": {
+          "ja": "ヘルメットのアイルー",
+          "en": "Helmeted Felyne"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 736,
+      "en_pointer_offset": 736
+    },
+    "m60007.mib": {
+      "fields": {
+        "title": {
+          "ja": "ネギま！・凍る世界の吸血鬼",
+          "en": "Negima! - Vampire of Tundra"
+        },
+        "objective": {
+          "ja": "タイムアップもしくは、\nネコタクチケットの納品",
+          "en": "Survive until Time Over or\nDeliver the Paw Pass Ticket"
+        },
+        "failure_conditions": {
+          "ja": "２頭以上を狩猟せずにタイム\nアップ、もしくは報酬金ゼロ",
+          "en": "Hunt 2 or more Gigginox\nbefore Time Up, Reward Zero"
+        },
+        "request_description": {
+          "ja": "人の血をすする、気味の悪い竜が\n凍土にいると聞いた。真祖として\nこの様な輩はガマンならん。\nさぁ残らず狩り獲ってくるのだ！\nふふ…この世界の狩人の力とやら\n見せて貰おうか。",
+          "en": "I heard a foul, blood-sucking\ndragon is in the Tundra.\nAs a True Ancestor, I won't\nstand for it.\nHunt them all!\nShow me a hunter's power."
+        },
+        "monster_summary": {
+          "ja": "バギィ\nガウシカ",
+          "en": "Baggi\nAnteka"
+        },
+        "requester": {
+          "ja": "尊大な態度の少女",
+          "en": "Haughty Young Girl"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 756,
+      "en_pointer_offset": 756
+    },
+    "m60009.mib": {
+      "fields": {
+        "title": {
+          "ja": "ＪＵＭＰ・赤熱の双腕",
+          "en": "JUMP - Two Arms of Red Heat"
+        },
+        "objective": {
+          "ja": "リオレウス１頭と\nアグナコトル１頭の狩猟",
+          "en": "Hunt Rathalos and\nAgnaktor"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "天より来たる炎を降らせし竜と\n地より現れし炎をまといし竜。\nこの二頭を同時に狩ることが\nできれば、お主を我が海賊団の\n一員と認め、この特別な財宝を\n授けよう。期待しているぞ。",
+          "en": "A dragon of fire from heaven\nand one clad in fire below.\nHunt both to join my crew\nand receive special treasure.\nI am counting on you,\nnew recruit."
+        },
+        "monster_summary": {
+          "ja": "ウロコトル\nズワロポス",
+          "en": "Uroktor\nSlagtoth"
+        },
+        "requester": {
+          "ja": "隻眼黒髭の男",
+          "en": "One-Eyed Blackbeard"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 692,
+      "en_pointer_offset": 692
+    },
+    "m60014.mib": {
+      "fields": {
+        "title": {
+          "ja": "ファミ通・怒濤の突進祭り！",
+          "en": "FAMITSU - The Raging Festival!"
+        },
+        "objective": {
+          "ja": "ブルファンゴ２０頭の討伐",
+          "en": "Hunt 20 Bullfango"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "突進といえばブルファンゴ！\n新鋭リノプロスも侮れない！\nもうそんな連中は怖くないぜ、と\n鼻で笑った貴方！　初心に戻って\n裸一貫で挑んでみませんか？\n勝者には生産用チケットを進呈！",
+          "en": "Bullfango for charging!\nRhenoplos are tough, too!\nIf you think they're jokes,\ntry fighting them naked!\nTickets for the winner!\nGood luck!"
+        },
+        "monster_summary": {
+          "ja": "ブルファンゴ\nリノプロス",
+          "en": "Bullfango\nRhenoplos"
+        },
+        "requester": {
+          "ja": "ファミ通編集部",
+          "en": "Famitsu Editorial Dept."
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 692,
+      "en_pointer_offset": 692
+    },
+    "m60006.mib": {
+      "fields": {
+        "title": {
+          "ja": "名探偵コナン・連続狩猟事件！",
+          "en": "Detective Conan - The Hunting!"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの狩猟",
+          "en": "Hunt the Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "助けてくれ！　この先の闘技場で\n暴れとるヤツらがおるんじゃ。\nワシの小さな友人達も閉じ込めら\nれておる。ここで頼りになるのは\nハンターだと聞く、解決できれば\nワシの物なら何でも進呈しよう！",
+          "en": "Help! Monsters are rampaging\nin the Arena ahead.\nMy small friends are trapped!\nIf a hunter saves them,\nI'll give you anything\nI have!"
+        },
+        "monster_summary": {
+          "ja": "アオアシラ、ウルクスス\nラングロトラ",
+          "en": "Arzuros, Lagombi\nVolvidon"
+        },
+        "requester": {
+          "ja": "発明家と名乗る老人",
+          "en": "Self-Proclaimed Inventor"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 740,
+      "en_pointer_offset": 740
+    },
+    "m61001.mib": {
+      "fields": {
+        "title": {
+          "ja": "モンハンフェスタ　０１",
+          "en": "MONHAN Festival 01"
+        },
+        "objective": {
+          "ja": "ジンオウガ１頭の討伐",
+          "en": "Hunt the Zinogre"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "モンハンフェスタへようこそ！\nご存じの通り、こちらでは、\n如何に早いタイムで、クエストを\n達成するかが問われます。\nジンオウガは手強い相手ですが、\nくれぐれもお気をつけて！",
+          "en": "Welcome to Monster Hunter Fest!\nAs you know, the goal is to\nclear the quest fast!\nZinogre is a tough foe,\nso please be careful!\nGood luck!"
+        },
+        "monster_summary": {
+          "ja": "ジンオウガ",
+          "en": "Zinogre"
+        },
+        "requester": {
+          "ja": "若き大会運営者",
+          "en": "Young Event Organizer"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 652,
+      "en_pointer_offset": 652
+    },
+    "m61002.mib": {
+      "fields": {
+        "title": {
+          "ja": "モンハンフェスタ　０２",
+          "en": "MONHAN Festival 02"
+        },
+        "objective": {
+          "ja": "ティガレックス亜種１頭の討伐",
+          "en": "Hunt the Brute Tigrex"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "諸君、ようこそ決勝の舞台へ！\n諸君らの挑戦を歓迎するぞ！\n今回挑んでもらう相手は、\nティガレックス亜種だ！\n恐るべき咆哮と突進をもつ黒轟竜\nを、見事乗り越えてみせろ！",
+          "en": "Welcome to the finals!\nWe welcome your challenge!\nYour target this time is\nTigrex Subspecies!\nOvercome the Brute Tigrex!\nShow your strength!"
+        },
+        "monster_summary": {
+          "ja": "ティガレックス亜種",
+          "en": "Brute Tigrex"
+        },
+        "requester": {
+          "ja": "豪快な大会運営者",
+          "en": "Hearty Event Organizer"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 672,
+      "en_pointer_offset": 672
+    },
+    "m61003.mib": {
+      "fields": {
+        "title": {
+          "ja": "モンハンフェスタ　０３",
+          "en": "MONHAN Festival 03"
+        },
+        "objective": {
+          "ja": "イビルジョー１頭の討伐",
+          "en": "Hunt the Deviljho"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "ふふ、大会もいよいよ佳境ね。\n今回貴方が挑むのは、恐暴竜\nイビルジョー。あの大きな口に\n噛まれたらと思うとゾクゾクする\nわ…。貴方の素敵な立ち回りを\n期待しているわ。",
+          "en": "The tourney is at its peak!\nYou face the Deviljho.\nThat massive mouth makes me\nshiver...\nShow us some truly wonderful\nfootwork!"
+        },
+        "monster_summary": {
+          "ja": "イビルジョー",
+          "en": "Deviljho"
+        },
+        "requester": {
+          "ja": "妖艶な大会運営者",
+          "en": "Alluring Event Organizer"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 652,
+      "en_pointer_offset": 652
+    },
+    "m61004.mib": {
+      "fields": {
+        "title": {
+          "ja": "モンハンフェスタ　０４",
+          "en": "MONHAN Festival 04"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの討伐",
+          "en": "Hunt All Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "数多の狩人が腕を競い、鎬を\n削った今大会もいよいよこれで\nフィナーレです！\n全ての狩人が注目するこの一戦、\n存分に力を発揮してください。",
+          "en": "Many hunters have competed in\nthis tournament, and now it\nis finally time for the end!\nEveryone is watching.\nGive it your absolute best!\nGo!"
+        },
+        "monster_summary": {
+          "ja": "ナルガクルガ亜種、ジンオウガ\nギギネブラ亜種、ドボルベルク",
+          "en": "Green Nargacuga, Zinogre\nBaleful Gigginox, Duramboros"
+        },
+        "requester": {
+          "ja": "高潔な大会運営者",
+          "en": "Noble Event Organizer"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 684,
+      "en_pointer_offset": 684
+    },
+    "m61005.mib": {
+      "fields": {
+        "title": {
+          "ja": "チャレンジクエスト　０１",
+          "en": "Challenge Quest 01"
+        },
+        "objective": {
+          "ja": "ドスフロギィ１頭の討伐",
+          "en": "Hunt the Great Wroggi"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "我輩だ。教官だ！\n今回貴様に挑んでもらうのは、\nドスフロギィとその子分共だ！\nいかに毒霧をかわして立ち回るか\nがポイントだ！…ぬ？　なめて\nかかると痛い目を見るぞ！！",
+          "en": "It is I, the Instructor!\nYou face Great Wroggi and\nhis pesky little lackeys!\nEvading the poison is key!\nDon't you dare\nunderestimate them!"
+        },
+        "monster_summary": {
+          "ja": "ドスフロギィ\nフロギィ",
+          "en": "Great Wroggi\nWroggi"
+        },
+        "requester": {
+          "ja": "教官",
+          "en": "Instructor"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 652,
+      "en_pointer_offset": 652
+    },
+    "m61006.mib": {
+      "fields": {
+        "title": {
+          "ja": "チャレンジクエスト　０２",
+          "en": "Challenge Quest 02"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの討伐",
+          "en": "Hunt the Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "クエスト達成までの時間を競う、\nチャレンジクエストのお時間だ！\n今回のお相手は、牙獣種２連続！\n効率よく立ち回るという意識を身\nにつけるには、格好の相手だな！\nよく考えて行動する癖をつけろ！",
+          "en": "It's time for a Challenge!\nCompete for the best time!\nTwo Fanged Beasts in a row!\nPerfect for learning how to\nhunt efficiently!\nThink fast!"
+        },
+        "monster_summary": {
+          "ja": "アオアシラ\nウルクスス",
+          "en": "Arzuros\nLagombi"
+        },
+        "requester": {
+          "ja": "教官",
+          "en": "Instructor"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 696,
+      "en_pointer_offset": 696
+    },
+    "m61007.mib": {
+      "fields": {
+        "title": {
+          "ja": "チャレンジクエスト　０３",
+          "en": "Challenge Quest 03"
+        },
+        "objective": {
+          "ja": "クルペッコ亜種１頭の討伐",
+          "en": "Hunt the Crimson Qurupeco"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "闘技場に現れた紅彩鳥を討伐\nせよ！　もちろんこやつは、他の\nモンスターを呼び寄せるぞ、準備\nは十分にしておけ！　無論、どん\nな相手が来ようと、紅彩鳥さえ\n倒せば、クエストは成功だ！",
+          "en": "Slay the Crimson Qurupeco in\nthe Arena!\nIt will call for help, so be\nprepared!\nJust take down the Peco to\nsucceed!"
+        },
+        "monster_summary": {
+          "ja": "クルペッコ亜種",
+          "en": "Crimson Qurupeco"
+        },
+        "requester": {
+          "ja": "教官",
+          "en": "Instructor"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 664,
+      "en_pointer_offset": 664
+    },
+    "m61008.mib": {
+      "fields": {
+        "title": {
+          "ja": "チャレンジクエスト　０４",
+          "en": "Challenge Quest 04"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの討伐",
+          "en": "Hunt the Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "我輩だ。教官だ！\nチャレンジクエストが大連続狩猟\n形式の場合、気持ちの切替が重要\nになる！　テンポが違う相手に、\n対応していけるか！？　ヌハハ、\n貴様の地力が試されるぞ！",
+          "en": "It is I, the Instructor!\nFor Great Hunts, you must\nswitch your mindset fast!\nCan you adapt to the rhythm?\nYour true power is tested!\nGo!"
+        },
+        "monster_summary": {
+          "ja": "ラングロトラ\nボルボロス亜種",
+          "en": "Volvidon\nJade Barroth"
+        },
+        "requester": {
+          "ja": "教官",
+          "en": "Instructor"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 672,
+      "en_pointer_offset": 672
+    },
+    "m61009.mib": {
+      "fields": {
+        "title": {
+          "ja": "チャレンジクエスト　０５",
+          "en": "Challenge Quest 05"
+        },
+        "objective": {
+          "ja": "ナルガクルガ亜種１頭の討伐",
+          "en": "Hunt the Green Nargacuga"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "鋭い動きで、死角から襲い来る\n緑迅竜！　闘技場のような視界が\nひらけた場所であっても、その\n脅威は揺るがない！…だが我輩が\n選んだナイス装備ならサクサク\n回避可能のはず！　華麗に舞え！",
+          "en": "Green Nargacuga strikes from\nyour blind spots with speed!\nEven in the open Arena,\nit is a deadly threat!\nDance and dodge with my gear!\nNow!"
+        },
+        "monster_summary": {
+          "ja": "ナルガクルガ亜種",
+          "en": "Green Nargacuga"
+        },
+        "requester": {
+          "ja": "教官",
+          "en": "Instructor"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 676,
+      "en_pointer_offset": 676
+    },
+    "m61010.mib": {
+      "fields": {
+        "title": {
+          "ja": "チャレンジクエスト　０６",
+          "en": "Challenge Quest 06"
+        },
+        "objective": {
+          "ja": "アオアシラ１頭と\nジンオウガ１頭の討伐",
+          "en": "Hunt the Arzuros\nand Zinogre"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "おっと、まだ準備中なのだが…\nうむ…まあ、問題はあるまい、\nサービスだ！　１頭は準備できて\nいるから、先に始めておくのだ。\n準備が終わり次第、もう１頭も\n投入してやろう。我輩優しすぎ！",
+          "en": "Oops, I'm still preparing...\nWell, it's fine. A bonus!\nOne is ready, so start now.\nI'll drop the second one in\nwhen I'm done.\nI'm too kind!"
+        },
+        "monster_summary": {
+          "ja": "アオアシラ\nジンオウガ",
+          "en": "Arzuros\nZinogre"
+        },
+        "requester": {
+          "ja": "教官",
+          "en": "Instructor"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 700,
+      "en_pointer_offset": 700
+    },
+    "m61011.mib": {
+      "fields": {
+        "title": {
+          "ja": "チャレンジクエスト　０７",
+          "en": "Challenge Quest 07"
+        },
+        "objective": {
+          "ja": "ドスジャギィ１頭の討伐",
+          "en": "Hunt the Great Jaggi"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "ハンターたる者、アイテムを使い\nこなして、初めて一流といえる！\n今回は我輩がたくさんアイテムを\n用意しておいたぞ！　どの順番で\n使えば一番効果的になるのかを\n考えてハンティングを行うのだ！",
+          "en": "A top hunter must master\nthe use of their items!\nI've provided plenty today!\nThink about the best order\nto use them effectively!\nBegin!"
+        },
+        "monster_summary": {
+          "ja": "ドスジャギィ\nジャギィ",
+          "en": "Great Jaggi\nJaggi"
+        },
+        "requester": {
+          "ja": "教官",
+          "en": "Instructor"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 684,
+      "en_pointer_offset": 684
+    },
+    "m61012.mib": {
+      "fields": {
+        "title": {
+          "ja": "チャレンジクエスト　０８",
+          "en": "Challenge Quest 08"
+        },
+        "objective": {
+          "ja": "アグナコトル亜種１頭の討伐",
+          "en": "Hunt the Glacial Agnaktor"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "一流のハンターならば、たとえ\n空腹になっても、華麗に立ち回れ\nなければいかん！　今回はそんな\nクエストだ。相手はアグナコトル\n亜種！　ガード可能な装備は無い\nぞ。必死に避け、全力で攻めろ！",
+          "en": "A pro hunter must fight well\neven on an empty stomach!\nThat's the quest.\nIt's the Glacial Agnaktor!\nNo guards! Dodge and attack\nwith all you have!"
+        },
+        "monster_summary": {
+          "ja": "アグナコトル亜種",
+          "en": "Glacial Agnaktor"
+        },
+        "requester": {
+          "ja": "教官",
+          "en": "Instructor"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 684,
+      "en_pointer_offset": 684
+    },
+    "m61013.mib": {
+      "fields": {
+        "title": {
+          "ja": "チャレンジクエスト　０９",
+          "en": "Challenge Quest 09"
+        },
+        "objective": {
+          "ja": "すべての大型モンスターの討伐",
+          "en": "Hunt the Main Monsters"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "轟竜ティガレックスに、尾槌竜\nドボルベルク！　どちらも小細工\nなしに手強いモンスターだ！\n貴様も小細工は抜き、正面から\n立ち向かえ！　何？　なんか\nスースーする？　気のせいだ！",
+          "en": "Tigrex and Duramboros!\nBoth are tough monsters with\nno need for cheap tricks!\nFace them head-on!\nWhat? Feeling a draft?\nIgnore it!"
+        },
+        "monster_summary": {
+          "ja": "ティガレックス\nドボルベルク",
+          "en": "Tigrex\nDuramboros"
+        },
+        "requester": {
+          "ja": "教官",
+          "en": "Instructor"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 680,
+      "en_pointer_offset": 680
+    },
+    "m61014.mib": {
+      "fields": {
+        "title": {
+          "ja": "チャレンジクエスト　１０",
+          "en": "Challenge Quest 10"
+        },
+        "objective": {
+          "ja": "ティガレックス亜種１頭と\nウラガンキン亜種１頭の討伐",
+          "en": "Hunt the Brute Tigrex\nand Steel Uragaan"
+        },
+        "failure_conditions": {
+          "ja": "報酬金ゼロ\nタイムアップ",
+          "en": "Reward Zero\nTime Over"
+        },
+        "request_description": {
+          "ja": "今回は、２頭同時に相手してもら\nうぞ！　こういう場合は、片方を\n集中的に狙うのが定石だが、さて\nどちらを先に狙うべきか…？\nそれは貴様が考えろ！　相手の\n攻撃を利用するのも手だぞ！！",
+          "en": "You'll face two at once!\nFocusing on one is standard,\nbut which should go first?\nYou decide!\nTry using their attacks\nagainst each other!"
+        },
+        "monster_summary": {
+          "ja": "ティガレックス亜種\nウラガンキン亜種",
+          "en": "Brute Tigrex\nSteel Uragaan"
+        },
+        "requester": {
+          "ja": "教官",
+          "en": "Instructor"
+        }
+      },
+      "provenance": "6.3.0 patch",
+      "jp_pointer_offset": 740,
+      "en_pointer_offset": 740
+    }
+  },
+  "palicoes": [
+    {
+      "id": "koshiimo",
+      "ja": {
+        "name": "コシーモ",
+        "comment": "毒関係はまかせてほしいなり！",
+        "owner": "ＳＥＡＭＯ"
+      },
+      "en": {
+        "name": "Koshiimo",
+        "comment": "Poison's mine!",
+        "owner": "ＳＥＡＭＯ"
+      },
+      "editorial": {
+        "name_policy": "Editorial romanization of コシーモ (approximately Koshīmo)",
+        "confidence": "Romanization unverified as official English nickname",
+        "comment_note": "Concise poison-specialist reference",
+        "meowster_policy": "Preserve original fullwidth Latin creator display name exactly"
+      },
+      "legacy_en": {
+        "owner": "SEAMO"
+      }
+    },
+    {
+      "id": "hagitokoroo",
+      "ja": {
+        "name": "ハギとこルー",
+        "comment": "ハギーのとこトンやってみよう",
+        "owner": "ハギー"
+      },
+      "en": {
+        "name": "HagiTokoRoo",
+        "comment": "HagiToko! Go!",
+        "owner": "Haggy"
+      },
+      "legacy_en": {
+        "comment": "Go all out!"
+      },
+      "editorial": {
+        "name_policy": "Editorial romanization; capital T/R reflect branding, not source capitalization",
+        "confidence": "Romanization unverified as official English nickname",
+        "comment_note": "Includes HagiToko promotional program reference; shortened to fit 14 characters",
+        "meowster_policy": "Romanize original Japanese script to English; editorial rendering"
+      }
+    },
+    {
+      "id": "pieru",
+      "ja": {
+        "name": "ピエルー",
+        "comment": "ハロにちわ～。連れてって～！",
+        "owner": "ピエールたき"
+      },
+      "en": {
+        "name": "Pieru",
+        "comment": "Hiya! Take me!",
+        "owner": "Pierre Taki"
+      },
+      "editorial": {
+        "name_policy": "Editorial transliteration of Japanese katakana; long final vowel not written",
+        "confidence": "Romanization unverified as official English nickname",
+        "comment_note": "Playful punny Japanese greeting shortened for in-game limit",
+        "meowster_policy": "Romanize original Japanese script to English; editorial rendering"
+      }
+    },
+    {
+      "id": "maki",
+      "ja": {
+        "name": "ｍａｋｉ",
+        "comment": "可愛がると喜びます！",
+        "owner": "ＭＡＫＩ"
+      },
+      "en": {
+        "name": "ｍａｋｉ",
+        "comment": "Love me lots!",
+        "owner": "ＭＡＫＩ"
+      },
+      "legacy_en": {
+        "name": "maki",
+        "owner": "MAKI"
+      },
+      "editorial": {
+        "name_policy": "Preserve original fullwidth lowercase Latin spelling",
+        "confidence": "Original source, exact spelling",
+        "comment_note": "Concise idiomatic rendering due to 14-character limit",
+        "meowster_policy": "Preserve original fullwidth Latin creator display name exactly"
+      }
+    },
+    {
+      "id": "ue",
+      "ja": {
+        "name": "ｕｅ．",
+        "comment": "ｉｎｏ．は頼りになるニャ！！",
+        "owner": "ｉｎｏ．"
+      },
+      "en": {
+        "name": "ｕｅ．",
+        "comment": "Count on ino.!",
+        "owner": "ｉｎｏ．"
+      },
+      "editorial": {
+        "name_policy": "Preserve original fullwidth Latin spelling and period",
+        "confidence": "Original source, exact spelling",
+        "comment_note": "Concise idiomatic rendering due to 14-character limit",
+        "meowster_policy": "Preserve original fullwidth Latin creator display name exactly"
+      },
+      "legacy_en": {
+        "owner": "ino."
+      }
+    }
+  ],
+  "editorial_corrections": [
+    {
+      "quest": "m60024.mib",
+      "field": "request_description",
+      "patch_reference_defect": "It\\ufffds tough",
+      "selected": "It's tough",
+      "reason": "Replace U+FFFD with ASCII apostrophe; meaning corroborated by nearby English syntax and prior independently drafted translation; editorial repair, not verbatim patch text"
+    },
+    {
+      "quest": "m60021.mib",
+      "field": "request_description",
+      "patch_reference_defect": "It\\ufffds a dream-come-true set!",
+      "selected": "It's a dream-come-true set!",
+      "reason": "Replace U+FFFD with ASCII apostrophe; editorial repair, not verbatim patch text"
+    },
+    {
+      "id": "maki",
+      "field": "name",
+      "before": "maki",
+      "after": "ｍａｋｉ",
+      "reason": "Preserve original creator fullwidth lowercase lettering; previous version recognized as migratable alias"
+    },
+    {
+      "id": "hagitokoroo",
+      "field": "comment",
+      "before": "Go all out!",
+      "after": "HagiToko! Go!",
+      "reason": "Restore the promotional program reference within 14-character comment limit; previous version recognized as migratable alias"
+    }
+  ]
+}

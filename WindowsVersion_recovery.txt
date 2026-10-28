@@ -1,0 +1,17 @@
+# PyInstaller Windows PE version resource for MHP3rd DLC Localizer v1.0.0.
+VSVersionInfo(
+  ffi=FixedFileInfo(filevers=(1,0,0,0), prodvers=(1,0,0,0), mask=0x3f,
+                    flags=0x0, OS=0x40004, fileType=0x1, subtype=0x0, date=(0,0)),
+  kids=[
+    StringFileInfo([StringTable('040904B0', [
+      StringStruct('CompanyName', 'MHP3rd DLC Localizer Community Project'),
+      StringStruct('FileDescription', 'MHP3rd DLC Localizer Emergency Recovery'),
+      StringStruct('FileVersion', '1.0.0.0'),
+      StringStruct('InternalName', 'recovery'),
+      StringStruct('OriginalFilename', 'MHP3rd_Recovery.exe'),
+      StringStruct('ProductName', 'MHP3rd DLC English Localizer'),
+      StringStruct('ProductVersion', '1.0.0.0')
+    ])]),
+    VarFileInfo([VarStruct('Translation', [1033, 1200])])
+  ]
+)
