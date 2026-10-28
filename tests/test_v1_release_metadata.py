@@ -8,7 +8,7 @@ import desktop_app
 import analyze_dlc
 from release_packager import RELEASE, create_release, ARCHIVE_NAME
 
-root = Path(__file__).parent
+root = Path(__file__).resolve().parent.parent
 assert hashlib.sha256((root/'catalog.json').read_bytes()).hexdigest() == (root/'CATALOG_SHA256.expected').read_text().strip()
 assert desktop_app.VERSION == '1.0.0'
 assert not analyze_dlc.audit_catalog(analyze_dlc.load_catalog()[0])['errors']

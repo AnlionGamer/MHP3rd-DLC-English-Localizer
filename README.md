@@ -1,20 +1,49 @@
-# MHP3rd DLC English Localizer v1.0.0 — Source and one-command Windows builder
+# Monster Hunter Portable 3rd — DLC English Localizer
 
-Run `./Build_Windows_EXE.ps1` in PowerShell 7 on Windows x64 with Python 3.15.2. The builder compiles the localizer and independent recovery utility and automatically generates **only the required seven end-user files** in `Release/MHP3rd_DLC_Localizer_v1.0.0_Windows_x64.zip`.
+**An unofficial, offline English-localization utility for downloaded Monster Hunter Portable 3rd DLC in PPSSPP.** The Windows x64 application does not require Python.
 
-Build environments (`.build-venv`), PyInstaller intermediates (`.build`), build tools, tests, and original source code stay outside that ZIP in the builder folder. There is **no separate repackaging step** and no dependency on previous builds. The SHA-256 checksum is next to the release archive, not inside it. See `README_FIRST.md` for step-by-step instructions.
+**[Download v1.0.0 for Windows](https://github.com/AnlionGamer/MHP3rd-DLC-English-Localizer/releases/tag/v1.0.0)**
 
-## Frozen application features
+## What it does
 
-- Guided **Find Saves → Choose DLC → Review & Apply** UI.
-- Only recognized already-downloaded content: up to 66 quests, up to 5 promotional Palicoes, and optional recognized recruited Palicoes.
-- Preservation of original fullwidth Latin lettering and typography.
-- No changes to gameplay data, character items, progression or unrelated save information.
-- Verified backups and crash-interruption recovery, including an independent recovery executable.
-- Support for independently encrypted or unencrypted PPSSPP save containers.
+- Translates text in **up to 66 recognized, already-downloaded Event Quests**.
+- Offers localization of **detected** promotional Palicoes (up to five), including names, comments, and Meowster credits. You do **not** need to have all five.
+- Optionally updates recognized promotional Palicoes already recruited into your roster.
+- Preserves original fullwidth Latin lettering and punctuation according to the documented [name policy](NAME_TRANSLATION_POLICY.md).
+- Provides a preview, verified original backups, and an independent interrupted-installation recovery utility.
+- Supports supported PPSSPP save containers with encrypted or unencrypted data.
 
-The localization catalog, save-data patching logic, recovery engine, and GUI are **unchanged** from the previously tested v1.0.0 source. Changes here affect **builder/package logic and build documentation only**.
+The program **does not** download missing DLC, provide game files, or modify your ISO. It is intended to change eligible text only, not quest mechanics, rewards, equipment, or hunter progression.
 
-## Requirements / rights
+## Install and use
 
-The builder needs pinned Python/PyInstaller dependencies; the finished EXEs need no Python. Both binaries have Windows file version 1.0.0.0. No game ISO, original DLC, or private saves are part of this source or release. Source code uses GPLv3; the bundled translation text has additional third-party rights considerations. Read `THIRD_PARTY_TRANSLATION_RIGHTS.md` before uploading the application publicly.
+1. Download **`MHP3rd_DLC_Localizer_v1.0.0_Windows_x64.zip`** from [Releases](https://github.com/AnlionGamer/MHP3rd-DLC-English-Localizer/releases/latest).
+2. Extract the ZIP into its own folder, **outside PPSSPP's `SAVEDATA` directory**.
+3. **Close PPSSPP completely**.
+4. Run **`MHP3rd_DLC_Localizer.exe`**.
+5. Follow **Find Saves → Choose DLC → Review & Apply**. Select only the content you want to localize.
+6. Keep the backup created by the program. If an installation is interrupted, use the recovery option or **`MHP3rd_Recovery.exe`**.
+
+Only DLC already present in the selected save can be localized. The preview shows the content actually detected rather than assuming all quests or promotional Palicoes are installed.
+
+**Privacy:** backups and reports can contain character/save information; do not post them publicly when reporting an issue.
+
+## Download, source, and support
+
+| Resource | Link |
+| --- | --- |
+| Windows release | [v1.0.0 download and release notes](https://github.com/AnlionGamer/MHP3rd-DLC-English-Localizer/releases/tag/v1.0.0) |
+| Problems or suggestions | [GitHub Issues](https://github.com/AnlionGamer/MHP3rd-DLC-English-Localizer/issues) |
+| Build from source | [Windows building guide](docs/BUILDING.md) |
+| Test and validation notes | [Testing guide](docs/TESTING.md) and [historical reports](docs/history/) |
+| Contribution guidance | [CONTRIBUTING.md](CONTRIBUTING.md) |
+
+The root of this repository contains the **editable source** and **one-command Windows builder**, not the files end users must run. The [GitHub Release](https://github.com/AnlionGamer/MHP3rd-DLC-English-Localizer/releases/tag/v1.0.0) contains the compiled application.
+
+## Credits and licensing
+
+This is an unofficial fan-made utility, not affiliated with or endorsed by Capcom, PPSSPP, or translation contributors.
+
+The application **source code** is provided under [GPLv3](LICENSE_GPLv3.txt). The bundled English translation catalog involves **separate third-party rights considerations**: read [THIRD_PARTY_TRANSLATION_RIGHTS.md](THIRD_PARTY_TRANSLATION_RIGHTS.md) for provenance and redistribution status. The code license alone does not establish rights to third-party translated text.
+
+For translation and naming decisions, see [catalog editorial notes](CATALOG_EDITORIAL_NOTES.md) and the [name translation policy](NAME_TRANSLATION_POLICY.md).

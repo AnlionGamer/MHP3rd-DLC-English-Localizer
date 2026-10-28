@@ -1,0 +1,51 @@
+# Local Python environments and caches
+.venv/
+venv/
+.build-venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build intermediates and generated binary releases
+.build/
+build/
+build-spec/
+dist/
+dist-*/
+dist_*/
+Release/
+*.spec
+*.exe
+*.zip
+*.zip.sha256
+
+# Private PPSSPP save files, game images and extracted DLC
+SAVEDATA/
+**/SAVEDATA/
+**/SAVEDATA/**
+ULJM05800/
+ULJM05800QST/
+*.BIN
+*.bin
+*.SFO
+*.sfo
+*.mib
+*.dlo
+*.iso
+*.cso
+*.zso
+*.sav
+
+# Local reports/backups and environment files
+Backups/
+Output/
+Outputs/
+Results/
+*.log
+*.tmp
+.env
+.env.*
+.DS_Store
+Thumbs.db
