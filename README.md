@@ -15,6 +15,18 @@
 
 The program **does not** download missing DLC, provide game files, or modify your ISO. It is intended to change eligible text only, not quest mechanics, rewards, equipment, or hunter progression.
 
+## Verify the Windows download
+
+The SHA-256 of the v1.0.0 Windows ZIP, as reported by GitHub for the published asset, is recorded in [SHA256SUMS.txt](SHA256SUMS.txt).
+
+After downloading, verify it with PowerShell in the download folder:
+
+```powershell
+(Get-FileHash -Algorithm SHA256 .\MHP3rd_DLC_Localizer_v1.0.0_Windows_x64.zip).Hash
+```
+
+Compare the resulting hexadecimal digest with `SHA256SUMS.txt` before running the application.
+
 ## Install and use
 
 1. Download **`MHP3rd_DLC_Localizer_v1.0.0_Windows_x64.zip`** from [Releases](https://github.com/AnlionGamer/MHP3rd-DLC-English-Localizer/releases/latest).
